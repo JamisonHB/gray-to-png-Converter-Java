@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# gray-to-png-Converter-Java
-=======
 # Gray to PNG Converter (Java)
 
 This Java program converts `.gray` raw image files into PNG format using OpenCV.
@@ -25,4 +22,3 @@ This Java program converts `.gray` raw image files into PNG format using OpenCV.
 
    ```bash
    javac -cp "opencv-4110.jar" RawToPngConverter.java
->>>>>>> master
