@@ -50,8 +50,8 @@ public class RawToPngConverter {
         final int IMAGE_HEIGHT = 400;
 
         // --- Define your input and output directories ---
-        String inputDirectory = "/Users/jamis/Downloads/validation_imagery_raw";
-        String outputDirectory = "/Users/jamis/Downloads/test";
+        String inputDirectory = "Path/to/Input";
+        String outputDirectory = "Path/to/Output";
 
         // --- List all your .gray files in the input directory ---
         try {
